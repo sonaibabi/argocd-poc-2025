@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: httpd:latest
+        image: nginx:latest
